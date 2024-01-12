@@ -17,4 +17,4 @@ Game không yêu cầu bất kỳ cài đặt nào khác ngoài java cơ bản.
 
 3. Mục tiêu game
 
-Tiêu diệt toàn bộ quái vật để thu thập chìa khóa mở các ô cửa chặn đường và mở ruong kho báu.
+Tiêu diệt toàn bộ quái vật để thu thập chìa khóa mở các ô cửa chặn đường và mở rương kho báu.
